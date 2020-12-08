@@ -5,3 +5,10 @@ D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Release\
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.csproj.CoreCompileInputs.cache
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.exe
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.pdb
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Release\Humanization Apple.exe.config
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Release\Humanization Apple.exe
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Release\Humanization Apple.pdb
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.csprojAssemblyReference.cache
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.csproj.CoreCompileInputs.cache
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.exe
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Release\Humanization Apple.pdb

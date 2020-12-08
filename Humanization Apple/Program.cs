@@ -11,18 +11,18 @@ namespace Humanization_Apple
         {
             string path_of;
             string path_to;
-            
+            //
             Console.WriteLine("Привет! Я помогу тебе очеловечить технологии Apple!");
             Console.WriteLine("Введи путь до папки с подкаталогами фотографий: ");
             path_of = Console.ReadLine();
-
+            //
             Console.WriteLine("Введи путь до папки, куда перенести всю медиа: ");
             path_to = Console.ReadLine();
-
+            //
             Console.WriteLine("Отчет: ");
-
+            //
             MoveTo(path_of, path_to);
-
+            //
             Console.ReadLine();
         }
 
@@ -61,7 +61,7 @@ namespace Humanization_Apple
             Console.WriteLine("-");
         }
 
-        static public void File_Search(string path_of)
+        static public void File_Search(string path_of) // Функция ищет все файлы в указанной директории
         {
             string[] pathFile = Directory.GetFiles(path_of);
             string[] dirS = Directory.GetDirectories(path_of);

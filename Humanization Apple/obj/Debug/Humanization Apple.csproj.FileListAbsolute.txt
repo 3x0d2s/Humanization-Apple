@@ -12,3 +12,10 @@ D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Debug\Hu
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.csproj.CoreCompileInputs.cache
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.exe
 D:\Разработки\repos\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.pdb
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Debug\Humanization Apple.exe.config
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Debug\Humanization Apple.exe
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\bin\Debug\Humanization Apple.pdb
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.csprojAssemblyReference.cache
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.csproj.CoreCompileInputs.cache
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.exe
+C:\Local\Coding\Разные проекты\Humanization Apple\Humanization Apple\obj\Debug\Humanization Apple.pdb
